@@ -190,7 +190,7 @@ a:hover {
 	z-index: 50;
 	border-radius: 0;
 	top: 0px;
-	background: rgba(39, 45, 64, 0.42);
+	background: rgb(39, 45, 64);
 }
 .addBg {
 	background: #272d40;
@@ -422,7 +422,7 @@ a:hover {
 	margin: 37px 0 13px;
 	text-transform: uppercase;
 	text-shadow: 0 1px 1px rgba(124, 124, 124, 1);
-	background: rgba(37, 37, 37, 0.31);
+	background: rgba(37, 37, 37, 0.67);
 	display: inline-block;
 	/* float: left; */
 	margin: 0 auto;
