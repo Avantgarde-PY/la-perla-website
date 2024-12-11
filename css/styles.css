@@ -1311,6 +1311,14 @@ footer {
 	box-shadow: 0 0 3px rgba(0, 0, 0, 0.2);
 }
 
+@media (max-width: 768px) {
+	.navbar-collapse {
+		max-height: 800px; /* Set a limit for the dropdown's height */
+		overflow-y: auto;  /* Allow scrolling if content exceeds max-height */
+	}
+}
+
+
 .bold {
 	font-weight: bold;
 }
