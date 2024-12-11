@@ -1313,7 +1313,7 @@ footer {
 
 @media (max-width: 768px) {
 	.navbar-collapse {
-		max-height: 800px; /* Set a limit for the dropdown's height */
+		max-height: 80000px; /* Set a limit for the dropdown's height */
 		overflow-y: auto;  /* Allow scrolling if content exceeds max-height */
 	}
 }
