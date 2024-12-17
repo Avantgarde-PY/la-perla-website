@@ -168,7 +168,7 @@ var translations = {
         "about.welcome": "Bem-vindo à La Perla",
         "about.p.one": "No coração do encantador Villarrica, ‘La Perla’ oferece apartamentos modernos de 2 a 3 quartos, perfeitos para famílias ou para quem precisa de um pouco mais de espaço. Cada apartamento é climatizado e possui amplas varandas, ideais para um café da manhã com vista.",
         "about.p.two": "O destaque: uma cobertura com piscina, perfeita para dias relaxantes e noites de churrasco. A localização central permite que você aproveite o melhor de Villarrica: restaurantes, cafés e lojas estão a apenas alguns minutos a pé. A proximidade com a escola privada Don Bosco torna esses apartamentos especialmente atraentes para famílias com crianças.",
-        "about.p.three": "A entrega está prevista para dezembro de 2025, então você tem tempo suficiente para preparar sua mudança. O preço de venda é atrativo, R$1000 por m², e o melhor de tudo: sem comissões de agência, pois é uma venda privada!",
+        "about.p.three": "A entrega está prevista para dezembro de 2025, então você tem tempo suficiente para preparar sua mudança. O preço de venda é atrativo, $1000 por m², e o melhor de tudo: sem comissões de agência, pois é uma venda privada!",
         "about.p.four": "Garanta seu lugar neste projeto exclusivo e realize seu sonho de ter o lar ideal em Villarrica. Sua nova vida espera por você!",
         "gallery.title": "Galeria",
         "gallery.subtitle": "Cada marco conta uma história, desde a primeira ideia até a casa dos sonhos concluída.",
