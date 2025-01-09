@@ -83,7 +83,8 @@ var translations = {
         "contact.subtitle": "Warum träumen, wenn Sie in Ihrem Traumhaus leben können?",
         "contact.address": "Adresse:",
         "contact.address.subtitle": "Villarrica Ecke Ria chuelo und Azara",
-        "contact.phone": "Telefon / WhatsApp:",
+        "contact.phone.telephone": "Telefon",
+        "contact.phone.whatsapp": "WhatsApp",
         "contact.telegram": "Telegram:"
     },
     "es": {
@@ -146,7 +147,8 @@ var translations = {
         "contact.subtitle": "¿Por qué soñar, cuando puedes vivir en la casa de tus sueños?",
         "contact.address": "Dirección:",
         "contact.address.subtitle": "Villarrica esquina Ria Chuelo y Azara",
-        "contact.phone": "Teléfono / WhatsApp:",
+        "contact.phone.telephone": "Teléfono",
+        "contact.phone.whatsapp": "WhatsApp",
         "contact.telegram": "Telegram:"
     },
     "br": {
@@ -209,7 +211,8 @@ var translations = {
         "contact.subtitle": "Por que sonhar, quando você pode viver na casa dos seus sonhos?",
         "contact.address": "Endereço:",
         "contact.address.subtitle": "Villarrica esquina Ria Chuelo e Azara",
-        "contact.phone": "Telefone / WhatsApp:",
+        "contact.phone.telephone": "Telefone",
+        "contact.phone.whatsapp": "WhatsApp",
         "contact.telegram": "Telegram:"
     },
     "en": {
@@ -272,7 +275,8 @@ var translations = {
         "contact.subtitle": "Why dream when you can live in your dream home?",
         "contact.address": "Address:",
         "contact.address.subtitle": "Villarrica corner of Ria Chuelo and Azara",
-        "contact.phone": "Phone / WhatsApp:",
+        "contact.phone.telephone": "Phone",
+        "contact.phone.whatsapp": "WhatsApp",
         "contact.telegram": "Telegram:"
     }
 };
