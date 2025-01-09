@@ -75,12 +75,15 @@ var translations = {
         "team.title": "Team",
         "team.subtitle": "Zusammenkommen ist ein Beginn, zusammenbleiben ist ein Fortschritt, zusammenarbeiten ist ein Erfolg.",
         "partner.title": "Partner",
-        "partner.subtitle": "In Arbeit...",
+        "partner.subtitle": "Gemeinsam schaffen wir Fundamente – für erfolgreiche Projekte, innovative Lösungen und eine vertrauensvolle Partnerschaft, die wächst.",
+        "partner.one": "Strukturelle Berechnung",
+        "partner.two": "Architektonisches Design",
+        "partner.three": "Elektrisches Design",
         "contact.title": "Kontakt",
         "contact.subtitle": "Warum träumen, wenn Sie in Ihrem Traumhaus leben können?",
         "contact.address": "Adresse:",
         "contact.address.subtitle": "Villarrica Ecke Ria chuelo und Azara",
-        "contact.phone": "Telefon:",
+        "contact.phone": "Telefon / WhatsApp:",
         "contact.telegram": "Telegram:"
     },
     "es": {
@@ -135,13 +138,16 @@ var translations = {
         "team.title": "Equipo",
         "team.subtitle": "El llegar juntos es el comienzo, el mantenerse juntos es el progreso, el trabajar juntos es el éxito.",
         "partner.title": "Socios",
-        "partner.subtitle": "En trabajo...",
+        "partner.subtitle": "Juntos construimos los cimientos – para proyectos exitosos, soluciones innovadoras y una asociación basada en la confianza y el crecimiento.",
+        "partner.one": "Cálculo Estructural",
+        "partner.two": "Diseño Arquitectónico",
+        "partner.three": "Diseño Eléctrico",
         "contact.title": "Contacto",
         "contact.subtitle": "¿Por qué soñar, cuando puedes vivir en la casa de tus sueños?",
         "contact.address": "Dirección:",
         "contact.address.subtitle": "Villarrica esquina Ria Chuelo y Azara",
-        "contact.phone": "Teléfono:",
-        "contact.telegram": "Telegrama:"
+        "contact.phone": "Teléfono / WhatsApp:",
+        "contact.telegram": "Telegram:"
     },
     "br": {
         "navbar.brand": "La Perla",
@@ -195,12 +201,15 @@ var translations = {
         "team.title": "Equipe",
         "team.subtitle": "Chegar juntos é o começo, ficar juntos é o progresso, trabalhar juntos é o sucesso.",
         "partner.title": "Parceiros",
-        "partner.subtitle": "No trabalho...",
+        "partner.subtitle": "Juntos, construímos os alicerces – para projetos de sucesso, soluções inovadoras e uma parceria baseada em confiança e crescimento.",
+        "partner.one": "Cálculo Estrutural",
+        "partner.two": "Design Arquitetônico",
+        "partner.three": "Design Elétrico",
         "contact.title": "Contato",
         "contact.subtitle": "Por que sonhar, quando você pode viver na casa dos seus sonhos?",
         "contact.address": "Endereço:",
         "contact.address.subtitle": "Villarrica esquina Ria Chuelo e Azara",
-        "contact.phone": "Telefone:",
+        "contact.phone": "Telefone / WhatsApp:",
         "contact.telegram": "Telegram:"
     },
     "en": {
@@ -255,12 +264,15 @@ var translations = {
         "team.title": "Team",
         "team.subtitle": "Coming together is a beginning, staying together is progress, working together is success.",
         "partner.title": "Partner",
-        "partner.subtitle": "In progress...",
+        "partner.subtitle": "Together, we lay the foundations – for successful projects, innovative solutions, and a partnership built on trust and growth.",
+        "partner.one": "Structural Calculation",
+        "partner.two": "Architectural Design",
+        "partner.three": "Electrical Design",
         "contact.title": "Contact",
         "contact.subtitle": "Why dream when you can live in your dream home?",
         "contact.address": "Address:",
         "contact.address.subtitle": "Villarrica corner of Ria Chuelo and Azara",
-        "contact.phone": "Phone:",
+        "contact.phone": "Phone / WhatsApp:",
         "contact.telegram": "Telegram:"
     }
 };
