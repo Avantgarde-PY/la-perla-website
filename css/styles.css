@@ -205,9 +205,6 @@ a:hover {
 .navbar-inverse .navbar-toggle {
 	background-color: #333849;
 }
-.navbar-inverse .navbar-toggle .icon-bar {
-	/*background-color: #2e2e2e;*/
-}
 .navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
 	background: #333849;
 }
@@ -219,8 +216,6 @@ a:hover {
 }
 .navbar-inverse .navbar-toggle:hover .icon-bar {
 	background: #333849;
-}
-.navbar-toggle {
 }
 
 /*Title color*/
@@ -244,8 +239,6 @@ a:hover {
 #myCarousel {
 	margin-top: 50px;
 	border-bottom: 4px solid #333849;
-}
-.carousel-inner > .item {
 }
 .carousel-caption {
 	padding: 0px;
@@ -353,8 +346,6 @@ a:hover {
 	background: none;
 	border-radius: 0px;
 }
-.navbar-inverse .navbar-nav > .active {
-}
 .header .navbar-nav > li > a {
 	padding: 25px 18px;
 }
@@ -444,7 +435,6 @@ a:hover {
 	line-height: 60px;
 	overflow: hidden;
 	text-align: center;
-	vertical-align: top;
 	width: 60px;
 	margin: 0 auto;
 }
@@ -596,8 +586,6 @@ img, video, embed, object {
 	padding-left: 19%;
 	padding-right: 8%;
 }
-.grid .grid-item {
-}
 .grid .text-content h5 {
 	font-weight: bold;
 }
@@ -646,15 +634,12 @@ img, video, embed, object {
 	margin: 2px;
 }
 
-#contactUs {
-	/*background: #2e2e2e;*/;
-}
 #contactUs .btn {
 	border-radius: 0px !important;
 	background: rgba(38, 42, 59, 0.32);
 }
 
-.descrition {
+.description {
 	min-height: 90px;
 	/*text-align: center;*/
 	/*border-bottom: 1px solid #dadde2;*/
@@ -973,9 +958,15 @@ footer {
 		float: left;
 		margin: 0 3px 3px 0;
 		opacity: 1;
+
+		transform: scale(1, 1);
+		transition-timing-function: ease-out;
+		transition-duration: 250ms;
+
 		-webkit-transform: scale(1, 1);
 		-webkit-transition-timing-function: ease-out;
 		-webkit-transition-duration: 250ms;
+		
 		-moz-transform: scale(1, 1);
 		-moz-transition-timing-function: ease-out;
 		-moz-transition-duration: 250ms;
