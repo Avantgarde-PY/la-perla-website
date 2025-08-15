@@ -53,13 +53,15 @@ var translations = {
             "Ein Zuhause ist nicht nur ein Ort, sondern ein Gefühl von Luxus und Geborgenheit.",
         "about.welcome": "Willkommen bei La Perla",
         "about.p.one":
-            "Mitten im charmanten Villarrica bietet „La Perla“ moderne Wohnungen mit 2-3 Zimmern, perfekt für Familien oder diejenigen, die etwas mehr Platz brauchen. Jede Wohnung ist klimatisiert und verfügt über großzügige Balkone, ideal für den morgendlichen Kaffee mit Ausblick.",
+            "Träumst du von einem neuen Zuhause, das Charme, Komfort und eine perfekte Lage verbindet?\n In „La Perla“ erwarten dich moderne Studios sowie großzügige 2- bis 3-Zimmer-Wohnungen - ideal für Singles, Paare und Familien, die das gewisse Etwas suchen.",
         "about.p.two":
-            "Das Highlight: eine Dachterrasse mit Pool, perfekt für entspannte Tage und gesellige Grillabende. Die zentrale Lage ermöglicht es dir, das Beste von Villarrica zu genießen: Restaurants, Cafés und Einkaufsmöglichkeiten sind nur einen kurzen Spaziergang entfernt. Die Nähe zur Privatschule Don Bosco macht diese Wohnungen besonders attraktiv für Familien mit Kindern.",
+            "Alle Einheiten sind klimatisiert und verfügen über kleine, feine Balkone - ideal für eine gemütliche Tasse Kaffee am Morgen oder einen kurzen Frischluftmoment zwischendurch.",
         "about.p.three":
-            "Die Fertigstellung ist für Dezember 2025 geplant, also genug Zeit, um deinen Einzug perfekt vorzubereiten. Der Kaufpreis liegt bei attraktiven $1000 pro m², und das Beste daran: Keine Maklerkosten, da Privatverkauf!",
+            "Besonderes Highlight: Die Dachterrasse mit Pool lädt ein zum Sonnenbaden, Entspannen und geselligen Grillabenden - das Urlaubsgefühl gibt es hier inklusive!",
         "about.p.four":
-            "Sichere dir jetzt deinen Platz in diesem exklusiven Projekt und verwirkliche deinen Traum vom idealen Zuhause in Villarrica. Dein neues Leben wartet!",
+            "Dank der erstklassigen, zentralen Lage erreichst du Restaurants, Cafés und Einkaufsmöglichkeiten bequem zu Fuß. Auch die renommierte Privatschule Don Bosco liegt in unmittelbarer Nähe - perfekt für Familien mit Kindern.",
+        "about.p.five":
+            "Fertigstellung: Dezember 2025 - noch genug Zeit, um deine Wohnträume in Ruhe zu verwirklichen.\nKaufpreis: Die Einheiten waren in der Vorverkaufsaktion ab $1000/m² erhältlich - inzwischen liegt der Preis etwas höher. Investiere jetzt in Qualität und Lebensfreude - provisionsfrei, direkt vom Eigentümer!",
         "gallery.title": "Galerie",
         "gallery.subtitle":
             "Jeder Meilenstein erzählt eine Geschichte – von der ersten Idee bis zum fertigen Traumhaus.",
