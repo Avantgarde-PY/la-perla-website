@@ -53,15 +53,15 @@ var translations = {
             "Ein Zuhause ist nicht nur ein Ort, sondern ein Gefühl von Luxus und Geborgenheit.",
         "about.welcome": "Willkommen bei La Perla",
         "about.p.one":
-            "Träumst du von einem neuen Zuhause, das Charme, Komfort und eine perfekte Lage verbindet?\n In „La Perla“ erwarten dich moderne Studios sowie großzügige 2- bis 3-Zimmer-Wohnungen - ideal für Singles, Paare und Familien, die das gewisse Etwas suchen.",
+            "„La Perla“ ist ein modernes Wohnprojekt in zentraler Lage und befindet sich aktuell in der finalen Phase des Innenausbaus. Derzeit stehen noch mehrere Wohneinheiten zur Auswahl, die sich sowohl zur Eigennutzung als auch als Anlageobjekt eignen.",
         "about.p.two":
-            "Alle Einheiten sind klimatisiert und verfügen über kleine, feine Balkone - ideal für eine gemütliche Tasse Kaffee am Morgen oder einen kurzen Frischluftmoment zwischendurch.",
+            "Im ersten Stock werden unterschiedliche Grundrissvarianten angeboten. Dazu zählen kompakte Studios mit 24,5 m² oder 28 m² Wohnfläche inklusive Terrasse sowie bereits zusammengelegte Einheiten mit insgesamt 49 m² Wohnfläche.",
         "about.p.three":
-            "Besonderes Highlight: Die Dachterrasse mit Pool lädt ein zum Sonnenbaden, Entspannen und geselligen Grillabenden - das Urlaubsgefühl gibt es hier inklusive!",
+            "Da mit der Verlegung der Fliesen gerade begonnen wurde, besteht aktuell noch die Möglichkeit, bei der Gestaltung mitzuwirken. Fliesen und Türen können nach individuellem Geschmack ausgewählt werden.",
         "about.p.four":
-            "Dank der erstklassigen, zentralen Lage erreichst du Restaurants, Cafés und Einkaufsmöglichkeiten bequem zu Fuß. Auch die renommierte Privatschule Don Bosco liegt in unmittelbarer Nähe - perfekt für Familien mit Kindern.",
+            "Alle Wohnungen sind klimatisiert und verfügen über einen Balkon. Zusätzlich steht eine gemeinschaftliche Dachterrasse mit Pool und Quincho (Grillbereich) zur Verfügung.",
         "about.p.five":
-            "Fertigstellung: Dezember 2025 - noch genug Zeit, um deine Wohnträume in Ruhe zu verwirklichen.\nKaufpreis: Die Einheiten waren in der Vorverkaufsaktion ab $1000/m² erhältlich - inzwischen liegt der Preis etwas höher. Investiere jetzt in Qualität und Lebensfreude - provisionsfrei, direkt vom Eigentümer!",
+            "Die Lage bietet kurze Wege zu Restaurants, Cafés und Einkaufsmöglichkeiten. Die Privatschule Don Bosco befindet sich in unmittelbarer Nähe. Der Verkauf erfolgt provisionsfrei direkt vom Eigentümer, Besichtigungen sind nach Terminvereinbarung möglich.",
         "gallery.title": "Galerie",
         "gallery.subtitle":
             "Jeder Meilenstein erzählt eine Geschichte – von der ersten Idee bis zum fertigen Traumhaus.",
@@ -136,13 +136,15 @@ var translations = {
             "Un hogar no es solo un lugar, es un sentimiento de lujo y seguridad.",
         "about.welcome": "Bienvenido a La Perla",
         "about.p.one":
-            "En pleno corazón del encantador Villarrica, ‘La Perla’ ofrece departamentos modernos de 2 a 3 habitaciones, perfectos para familias o para aquellos que necesitan un poco más de espacio. Cada departamento está climatizado y cuenta con amplios balcones, ideales para un café matutino con vista.",
+            "„La Perla“ es un proyecto residencial moderno en una ubicación céntrica y se encuentra actualmente en la fase final de obra interior. En este momento aún hay varias unidades disponibles, aptas tanto para vivienda propia como para inversión.",
         "about.p.two":
-            "Lo destacado: una terraza en la azotea con piscina, perfecta para días relajados y noches de parrillada. La ubicación central te permite disfrutar de lo mejor de Villarrica: restaurantes, cafés y tiendas están a solo unos minutos a pie. La cercanía al colegio privado Don Bosco hace que estos departamentos sean especialmente atractivos para familias con niños.",
+            "En el primer piso se ofrecen distintas variantes de distribución. Hay estudios compactos de 24,5 m² o 28 m² con terraza, así como unidades ya unificadas con un total de 49 m² de superficie habitable.",
         "about.p.three":
-            "La finalización está prevista para diciembre de 2025, por lo que tienes tiempo suficiente para preparar tu mudanza. El precio de venta es atractivo, $1000 por m², y lo mejor de todo: ¡sin comisiones de agencia, ya que es una venta privada!",
+            "Como la colocación de los pisos acaba de comenzar, todavía es posible participar en el diseño interior. Los revestimientos y las puertas pueden elegirse según el gusto personal.",
         "about.p.four":
-            "Asegura tu lugar en este proyecto exclusivo y haz realidad tu sueño de tener el hogar ideal en Villarrica. ¡Tu nueva vida te espera!",
+            "Todos los departamentos cuentan con aire acondicionado y balcón. Además, los residentes disponen de una terraza común en la azotea con piscina y quincho.",
+        "about.p.five":
+            "La ubicación ofrece fácil acceso a restaurantes, cafés y comercios. El colegio privado Don Bosco se encuentra en las inmediaciones. La venta se realiza directamente por el propietario, sin comisión, y las visitas se coordinan con cita previa.",
         "gallery.title": "Galería",
         "gallery.subtitle":
             "Cada hito cuenta una historia, desde la primera idea hasta la casa soñada terminada.",
@@ -217,13 +219,15 @@ var translations = {
             "Um lar não é apenas um lugar, é um sentimento de luxo e segurança.",
         "about.welcome": "Bem-vindo à La Perla",
         "about.p.one":
-            "No coração do encantador Villarrica, ‘La Perla’ oferece apartamentos modernos de 2 a 3 quartos, perfeitos para famílias ou para quem precisa de um pouco mais de espaço. Cada apartamento é climatizado e possui amplas varandas, ideais para um café da manhã com vista.",
+            "„La Perla“ é um projeto residencial moderno em localização central e encontra-se atualmente na fase final de acabamento interno. Ainda há várias unidades disponíveis, adequadas tanto para moradia quanto para investimento.",
         "about.p.two":
-            "O destaque: uma cobertura com piscina, perfeita para dias relaxantes e noites de churrasco. A localização central permite que você aproveite o melhor de Villarrica: restaurantes, cafés e lojas estão a apenas alguns minutos a pé. A proximidade com a escola privada Don Bosco torna esses apartamentos especialmente atraentes para famílias com crianças.",
+            "No primeiro andar, estão disponíveis diferentes opções de planta, incluindo estúdios compactos de 24,5 m² ou 28 m² com terraço, bem como unidades já integradas com área total de 49 m².",
         "about.p.three":
-            "A entrega está prevista para dezembro de 2025, então você tem tempo suficiente para preparar sua mudança. O preço de venda é atrativo, $1000 por m², e o melhor de tudo: sem comissões de agência, pois é uma venda privada!",
+            "Como a instalação dos pisos foi iniciada recentemente, ainda é possível participar das decisões de acabamento. Revestimentos e portas podem ser escolhidos de acordo com o gosto pessoal.",
         "about.p.four":
-            "Garanta seu lugar neste projeto exclusivo e realize seu sonho de ter o lar ideal em Villarrica. Sua nova vida espera por você!",
+            "Todos os apartamentos possuem ar-condicionado e varanda. Além disso, os moradores contam com uma área comum na cobertura com piscina e espaço quincho para churrasco.",
+        "about.p.five":
+            "A localização oferece fácil acesso a restaurantes, cafés e comércios. A escola particular Don Bosco fica nas proximidades. A venda é feita diretamente pelo proprietário, sem comissão, e as visitas podem ser agendadas.",
         "gallery.title": "Galeria",
         "gallery.subtitle":
             "Cada marco conta uma história, desde a primeira ideia até a casa dos sonhos concluída.",
@@ -297,13 +301,15 @@ var translations = {
             "A home is not just a place but a feeling of luxury and security.",
         "about.welcome": "Welcome to La Perla",
         "about.p.one":
-            "Located in charming Villarrica, „La Perla“ offers modern apartments with 2-3 rooms, perfect for families or those needing a bit more space. Each apartment is air-conditioned and features spacious balconies, ideal for morning coffee with a view.",
+            "„La Perla“ is a modern residential project in a central location and is currently in the final phase of interior construction. Several units are still available, suitable for both private use and investment.",
         "about.p.two":
-            "The highlight: a rooftop terrace with a pool, perfect for relaxing days and social barbecue evenings. Its central location allows you to enjoy the best of Villarrica: restaurants, cafes, and shops are just a short walk away. The proximity to the Don Bosco private school makes these apartments especially appealing to families with children.",
+            "Various floor plan options are available on the first floor, including compact studios of 24.5 m² or 28 m² with terrace, as well as already combined units offering a total living space of 49 m².",
         "about.p.three":
-            "Completion is scheduled for December 2025, giving you plenty of time to prepare for your move. The purchase price is an attractive $1000 per m², and best of all: no broker fees due to private sale!",
+            "As tile installation has just begun, buyers currently still have the opportunity to influence the interior design. Tiles and doors can be selected according to personal preference.",
         "about.p.four":
-            "Secure your place in this exclusive project now and make your dream of the ideal home in Villarrica a reality. Your new life awaits!",
+            "All apartments are air-conditioned and feature a balcony. In addition, residents have access to a shared rooftop terrace with a pool and quincho (barbecue area).",
+        "about.p.five":
+            "The location offers short walking distances to restaurants, cafés, and shops. The Don Bosco private school is nearby. Sales are conducted directly by the owner with no commission, and site visits are available by appointment.",
         "gallery.title": "Gallery",
         "gallery.subtitle":
             "Every milestone tells a story – from the first idea to the finished dream home.",
@@ -372,7 +378,7 @@ function initializeLanguage() {
 document.addEventListener("DOMContentLoaded", function () {
     const dropdownToggle = document.getElementById("languageDropdown");
     const dropdownMenu = document.querySelector(
-        ".language-selector .dropdown-menu"
+        ".language-selector .dropdown-menu",
     );
 
     dropdownToggle.addEventListener("click", function (e) {
